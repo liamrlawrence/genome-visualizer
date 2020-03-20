@@ -5,6 +5,7 @@
 # Created      : March 20, 2020
 # Project      : Genome Visualizer
 # License      : MIT License
+# Copyright    : (C) 2020, Liam Lawrence
 #------------------------------------------------------------------------------
 
 from itertools import permutations
